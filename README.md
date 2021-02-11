@@ -7,4 +7,4 @@ A simple program which creates art using HTML5 canvas and Open Simplex noise.
 Key `→` - Start/Restart<br />
 Key `C` - Clear
 
-## [View Project](https://kurtisbrandon/github.com/noise-art)
+## [View Project](https://kurtisbrandon/github.io/noise-art)

@@ -52,10 +52,7 @@ ctx.fillRect(0, 0, w, h);
 ctx.fillStyle = 'rgba(1,1,1,0.3)';
 
 document.addEventListener('keydown', (e) => {
-  if (e.code === 'KeyR'){
-    window.location.reload();
-  } else if (e.code === 'KeyC') {
-
+  if (e.code === 'KeyC') {
     // Set w, h to width and height of canvas
     w = canvas.width = window.innerWidth;
     h = canvas.height = window.innerHeight;
